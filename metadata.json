@@ -1,6 +1,6 @@
 {
 	"name": "Google Custom Search Plugin",
-	"description": "Display Google CSE results inside Q2A site.",
+	"description": "Display Google custom search (CSE) results inside Q2A sites.",
 	"version": "1.1",
 	"date": "2020-10-11",
 	"author": "teddydoors",
