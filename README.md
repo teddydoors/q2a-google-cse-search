@@ -1,4 +1,4 @@
-# q2a-google-custom-search
+# q2a-google-cse-search
 Display Google Custom Search search results inside Q2A sites.
 
 Features:
