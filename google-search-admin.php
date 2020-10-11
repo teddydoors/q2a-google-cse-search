@@ -24,11 +24,11 @@
 			$fields = array();
 			
 			$fields[] = array(
-				'label' => 'Enter Goolge CSE ID:',
+				'label' => 'Enter Google CSE ID:',
 				'tags' => 'NAME="cse_id"',
 				'value' => qa_opt('cse_id'),
 				'type' => 'textarea',
-				'note' => 'Go to google.com/cse and register your website then get the CSE id here.',
+				'note' => 'Go to google.com/cse and register your website then get the CSE id ONLY here.',
 				'rows' => 10
 			);
 
