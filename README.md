@@ -3,7 +3,7 @@ Display Google Custom Search search results inside Q2A sites.
 
 Features:
 
-#Light-weighted: load the scripts only after users type their queries. So no worries about Core Web Vitals things!
+#Light-weighted: using page module to load the scripts only after users type their queries. So no worries about Core Web Vitals things!
 
 #No pop-ups, or viewport issues because this plugin will display Google Custom Search (CSE) results neatly inside Q2A sites.
 
